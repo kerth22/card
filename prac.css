@@ -1,0 +1,16 @@
+.img{
+    width: 150px;
+}
+.div{
+    background-color: violet;
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    padding: 20px;
+    border: 1px solid black;
+    border-bottom: yellow 5px solid;
+    text-align: center;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    margin: 40px auto;
+    
+}
